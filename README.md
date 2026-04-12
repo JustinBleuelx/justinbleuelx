@@ -1,5 +1,1 @@
-Donations for SQ34 Foundation
 
-Solana - Eb82wj9zPjYXUPdP2rVAM8GriKfD7UJdj7qtPeFxoa3w
-BTC - bc1qwq9sf9xemary60fw68ykxgxqkgajzh4uadfp7v
-ETH - bc1qwq9sf9xemary60fw68ykxgxqkgajzh4uadfp7v
